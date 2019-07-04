@@ -1,11 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Search from "./pages/Search";
+import "./App.css";
 
 function App() {
   return (
     <div>
-       App
+      <Search />
     </div>
   );
 }
